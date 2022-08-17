@@ -1,1 +1,27 @@
 /* css styles */
+body{
+  font-family: "Encode Sans", sans-serif;
+    color: #50535c;
+}
+
+
+h1{
+    color: #78be21;
+    font-family: "Encode Sans", "sans-serif", Roboto;
+    font-size: 3em;
+    font-weight: bold;
+    text-shadow: 1px 1px 0.5px #AAAAAA;
+}
+
+h2{
+    color: #50535c;
+    font-family: "Encode Sans", "sans-serif", Roboto;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+p{
+    font-family: Roboto, "Encode Sans", sans-serif;
+    font-size: 1em;
+    color: #50535c 
+}

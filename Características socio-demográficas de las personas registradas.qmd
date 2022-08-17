@@ -1,0 +1,4 @@
+---
+title: "Características socio-demográficas de las personas registradas"
+editor: visual
+---

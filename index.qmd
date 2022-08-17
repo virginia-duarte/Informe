@@ -1,11 +1,9 @@
 ---
-title: "Informe"
+title: "Registración"
 ---
 
-This is a Quarto website.
+El Registro Nacional de la Agricultura Familiar (ReNAF) releva información sobre los Núcleos de Agricultura Familiar (NAF) en todo el país. Los NAF refieren a una persona o grupo de personas, parientes o no, que habitan bajo un mismo techo en un régimen de tipo familiar, es decir: que comparten sus gastos de alimentación u otros gastos esenciales para vivir; y que aportan -o no- fuerza de trabajo para el desarrollo de alguna actividad en el ámbito rural.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Este registro tiene como objetivo disponer de una identificación genuina de las y los agricultores familiares, que brinde información para realizar una caracterización fehaciente, confiable y actualizada del sector, evidenciando sus necesidades y prioridades relacionadas con las distintas actividades productivas. Se busca promover el reconocimiento social y laboral, así como orientar de manera adecuada las distintas políticas públicas que desarrolle el Estado Nacional a través de los distintos organismos competentes.
 
-```{r}
-1 + 1
-```
+Este registro es voluntario y permanente, esto quiere decir que constantemente se registran familias productoras, se actualizan sus datos o se retira su inscripción en caso de que se hubiera abandonado la actividad productiva.
